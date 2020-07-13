@@ -14,7 +14,7 @@ When not tinkering with data and models, you will probably find me relishing �
 
 🤹‍♂️ Skill Set:
 
-[![Python](https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008)](https://www.python.org/)
+
 
 
 
