@@ -1,5 +1,5 @@
 <div>
-<img src="https://raw.githubusercontent.com/harish678/harish678/master/logos/bio-photo.png" alt="Harish" align='left' width=250>  <h1> 👋 folks, Harish here 🙏 </h1>
+<img src="https://raw.githubusercontent.com/harish678/harish678/master/logos/bio-photo.png" alt="Harish" align='left' width=200>  <h1> 👋 folks, Harish here 🙏 </h1>
 </div>
 
 I'm a ```Machine Learning Engineer 🐱‍💻``` passionate and curious in solving real 🌏 problems. 
