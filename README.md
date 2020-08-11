@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.glitch.me/badge?page_id=harish678.visitor-badge" align='right'/>
+<img src="https://komarev.com/ghpvc/?username=harish678&style=flat" align='right'/>
 
 <div>
 <img src="https://raw.githubusercontent.com/harish678/harish678/master/logos/bio-photo.png" alt="Harish" align='left' width=200>  <h1> 👋 folks, Harish here 🙏 </h1>
@@ -9,6 +9,11 @@ I'm a ```Machine Learning Engineer 🐱‍💻``` passionate and curious in solv
 Always enthusiastic about learning new technologies and build on those technologies (even a Simple <i>Hello, World!!</i>).
 
 When not tinkering with data and models, you will probably find me relishing 🎵🎧, watching 📺, researching 📚, or hiking 🗻.
+
+💻 Repository Languages:
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harish678&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🤹‍♂️ Skill Set:
 ---
